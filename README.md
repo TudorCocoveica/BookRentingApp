@@ -1,7 +1,7 @@
 # BookRentingApp
 
 ## Descriere
-  BookRentingApp este o aplicatie simpla cu GUI, folosing Observer Design Pattern in dezvoltarea lui, realizata prin intermediul IDE-ului Eclipse. In aplicatie se poate crea un cont de utilizator, iar dupa logare, ii permite utilizatorului sa inchirieze carti.
+BookRentingApp este o aplicatie simpla pentru gestionarea inchirierii cartilor. Aceasta ofera o interfata grafica accesibila pentru utilizatori, permitandu-le sa vizualizeze si sa inchiriere carti disponibile.
 
 ## Exemple de utilizare
 - Crearea unui cont nou si logarea
