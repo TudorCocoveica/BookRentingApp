@@ -29,7 +29,7 @@ import java.awt.event.ActionEvent;
 public class InterfataLogin extends JFrame {
 
 	// Path-ul datelor de logare
-	File f = new File("d:\\facultate\\Java\\ProiectPIP_biblioteca\\DateLogin");
+	File f = new File("d:\\Eclipse\\Java\\BookRent\\DateLogin");
 
 	int ln;
 	boolean dateCorecte = false;
