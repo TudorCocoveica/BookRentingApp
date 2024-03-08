@@ -100,8 +100,8 @@ public class InterfataInchiriere extends JFrame implements ObserverCarti {
 	 * Variabile pentru path-ul fisierelor text
 	 */
 
-	String fisier1 = "D:\\\\facultate\\\\Java\\\\ProiectPIP_biblioteca\\\\src\\\\InchiriereCarti\\\\detaliiCarti";
-	String fisier2 = "D:\\\\facultate\\\\Java\\\\ProiectPIP_biblioteca\\\\src\\\\InchiriereCarti\\\\descriereCarti";
+	String fisier1 = "H:\\Eclipse\\BookRent\\src\\InchiriereCarti\\detaliiCarti";
+	String fisier2 = "H:\\Eclipse\\BookRent\\src\\InchiriereCarti\\descriereCarti";
 
 	private boolean[] stareaInchiriere = new boolean[9];// Variabila stare Default carti
 
