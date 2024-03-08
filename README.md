@@ -1,7 +1,7 @@
 # BookRentingApp
 
 ## Descriere
-BookRentingApp este o aplicatie simpla pentru gestionarea inchirierii cartilor. Aceasta ofera o interfata grafica accesibila pentru utilizatori, permitandu-le sa vizualizeze si sa inchiriere carti disponibile.
+BookRentingApp este o aplicatie simpla pentru gestionarea inchirierii cartilor. Aceasta ofera o interfata grafica accesibila pentru utilizatori, permitandu-le sa vizualizeze si sa inchirieze carti disponibile.
 
 ## Exemple de utilizare
 - Crearea unui cont nou si logarea
