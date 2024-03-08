@@ -1,7 +1,7 @@
 # BookRentingApp
 
 ## Descriere
-  Aplicatia de inchiriat carti este o aplicatie simpla cu GUI realizata prin intermediul Eclipse. In aplicatie se poate crea un cont de utilizator, iar dupa logare, ii permite utilizatorului sa inchirieze carti.
+  BookRentingApp este o aplicatie simpla cu GUI, folosing Observer Design Pattern in dezvoltarea lui, realizata prin intermediul IDE-ului Eclipse. In aplicatie se poate crea un cont de utilizator, iar dupa logare, ii permite utilizatorului sa inchirieze carti.
 
 ## Exemple de utilizare
 - Crearea unui cont nou si logarea
@@ -17,6 +17,10 @@
 
 ![image](https://github.com/TudorCocoveica/BookRentingApp/assets/76207731/11761387-7eb4-4ed5-b48a-fc0f3e65a736)
 
+- Observarea starii schimbate a cartilor
+
+![image](https://github.com/TudorCocoveica/BookRentingApp/assets/76207731/3fffd66b-a714-4d57-bd89-8d8a1f84e0ff)
+
 ## Detalii pentru functionarea programului
  ->Detaliile cartilor sunt preluate dintr-un fisier text, deci path-ul fisierului trebuie schimbat
   
@@ -29,6 +33,3 @@
 ->Imaginile cartilor trebuie adaugate intr-un nou fisier creat in Eclipse, un fisier sursa
 
 ![Untitled](https://github.com/TudorCocoveica/BookRentingApp/assets/76207731/4a541a6d-bdb6-483c-a5ac-11a1b7cb3766)
-
-
-
